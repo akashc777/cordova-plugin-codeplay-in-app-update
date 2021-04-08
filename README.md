@@ -1,5 +1,6 @@
 <h1>Code Play cordova in-app update</h1>
 
+<h2> Updated from npm tarball to include src </h2>
 Developed  by <a target="_blank" href="https://play.google.com/store/apps/details?id=com.HTML.AngularJS.Codeplay">HTML Code Play</a> and this plugin is used for check your app update through play store and if any new version available download by using immediate or flexible option.
 
 <h2>Git URL</h2>
